@@ -331,7 +331,7 @@ function showGuruKelas() {
             </div>
 
             <h3>
-                NAMA GURU KELAS
+                Cikgu Narziq Munira Binti Mohamad
             </h3>
 
             <p>
@@ -374,7 +374,7 @@ function showKetua() {
                 </h3>
 
                 <p>
-                    Nama Ketua
+                    Muhammad Qamar Qayyum Bin Mohd Kamarulensa
                 </p>
 
             </div>
@@ -390,7 +390,7 @@ function showKetua() {
                 </h3>
 
                 <p>
-                    Nama Penolong
+                    Nur Arifah binti Mohd Alhafiz
                 </p>
 
             </div>
@@ -870,15 +870,15 @@ function showGuru() {
 
     const teachers = [
 
-        ["NAMA GURU KELAS", "Guru Kelas"],
-        ["NAMA CIKGU 1", "Bahasa Melayu"],
-        ["NAMA CIKGU 2", "Bahasa Inggeris"],
-        ["NAMA CIKGU 3", "Matematik"],
-        ["NAMA CIKGU 4", "Sains"],
-        ["NAMA CIKGU 5", "Sejarah"],
-        ["NAMA CIKGU 6", "Geografi"],
-        ["NAMA CIKGU 7", "Pendidikan Islam"],
-        ["NAMA CIKGU 8", "RBT"]
+        ["Cikgu Narziq Munira", "Guru Kelas"],
+        ["Cikgu Narziq Munira", "Bahasa Melayu"],
+        ["Sir Hisham", "Bahasa Inggeris"],
+        ["Cikgu Roslizaini", "Matematik"],
+        ["Cikgu Zawawi", "Sains"],
+        ["Cikgu Zamizan", "Sejarah"],
+        ["Cikgu Irwaney", "Geografi"],
+        ["Ustad Redzuan", "Pendidikan Islam"],
+        ["Cikgu Nuriza", "RBT"]
 
     ];
 
